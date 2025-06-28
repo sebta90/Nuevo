@@ -1,6 +1,6 @@
 Crear en la carpeta Backend Archivo .env
 
-PORT = >>5000 o preferencia<<
+PORT = >>5000<<<<
 
 
 MONGO_URI = >>mongo serve<<
