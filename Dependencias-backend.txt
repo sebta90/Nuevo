@@ -1,0 +1,5 @@
+npm i @upstash/ratelimit @upstash/redis  <----- Limite de ratio
+npm i express <---- protocolo htpp framework de node
+npm i nodemon <----- actualizacion en tiempo real
+npm i mongoose <------ Base de datos
+npm i cors <----- Conexion con el frontend
